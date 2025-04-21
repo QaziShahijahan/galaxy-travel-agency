@@ -1,12 +1,24 @@
-# React + Vite
+# 🌌 Galaxy Travel Agency
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Galaxy Travel Agency** is a modern, responsive travel service website built using **React.js**, **Vite**, and **Swiper.js**. The project showcases a visually appealing layout with animated sliders, service listings, and smooth navigation across pages. It's designed to simulate a real-world travel agency frontend for portfolios or client presentations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✨ Responsive design for desktop and mobile
+- 🖼️ Image slider with carousel effects
+- 🔄 Autoplay & manual navigation using arrows
+- 📱 Optimized layout for screens below 600px
+- ⚡ Built with **Vite** for lightning-fast performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Vite**
+- **Swiper.js**
+- **Tailwind CSS** or custom CSS (depending on styling setup)
+- **Git & GitHub** for version control
+- **Vercel** for live deployment
